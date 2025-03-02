@@ -1,0 +1,43 @@
+body {
+    text-align: center;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.main-container {
+    margin: 200px auto;
+    background-color: white;
+    max-width: 600px;
+    max-height: 400px;
+    padding: 10px;
+    box-shadow: 2px 2px 2px 3px grey;
+
+}
+
+
+h1 {
+    font-size: 3rem;
+    letter-spacing: 10px;
+}
+
+h5 {
+    font-size: 1.5rem;
+    letter-spacing: 10px;
+}
+
+input {
+    display: block;
+    margin: 10px auto;
+    padding: 10px;
+
+}
+
+button {
+    margin: 10px;
+    padding: 10px;
+}
+
+h3 {
+    font-size: 2rem;
+}
